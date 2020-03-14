@@ -1,0 +1,15 @@
+.App ul{
+    text-align: center;
+    list-style-type: none;
+    overflow: hidden;
+    overflow-y: scroll;
+    height: 400px;
+}
+.App li{
+    cursor: pointer;
+}
+.App li:hover{
+    /* text-decoration: underline; */
+    color: whitesmoke;
+    background-color: #91d8d1;
+}
